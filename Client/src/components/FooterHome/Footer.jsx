@@ -27,7 +27,7 @@ const Footer = () => {
                         <li>Email: info@wandrlust.com</li>
                         <li>Phone: 961-669-5186</li>
                         <li>Address: Indian Institute of Technology,
-                            (BHU), Varanasi 517646</li>
+                            (BHU), Varanasi 221005</li>
                     </ul>
                 </div>
                 <div className="col-md-8 col-12">
